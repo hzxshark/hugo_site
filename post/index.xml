@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 犀利又放荡</title>
-    <link>http://example.org/post/</link>
+    <link>https://hzxshark.github.io/hugo_site/post/</link>
     <description>Recent content in Posts on 犀利又放荡</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 27 Nov 2019 23:20:36 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hzxshark.github.io/hugo_site/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Secend</title>
-      <link>http://example.org/post/secend/</link>
+      <link>https://hzxshark.github.io/hugo_site/post/secend/</link>
       <pubDate>Wed, 27 Nov 2019 23:20:36 +0800</pubDate>
       
-      <guid>http://example.org/post/secend/</guid>
+      <guid>https://hzxshark.github.io/hugo_site/post/secend/</guid>
       <description>天策府宣威将军曹雪阳</description>
     </item>
     
     <item>
       <title>First</title>
-      <link>http://example.org/post/first/</link>
+      <link>https://hzxshark.github.io/hugo_site/post/first/</link>
       <pubDate>Wed, 27 Nov 2019 23:10:35 +0800</pubDate>
       
-      <guid>http://example.org/post/first/</guid>
+      <guid>https://hzxshark.github.io/hugo_site/post/first/</guid>
       <description>大家好呀，我是来自比翼双飞的犀利又放荡》》</description>
     </item>
     
